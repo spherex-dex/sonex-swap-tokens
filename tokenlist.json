@@ -1,0 +1,26 @@
+{
+    "name": "Sonex",
+    "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/set-logo.svg",
+    "keywords": [
+      "sonex",
+      "set",
+      "tokensets",
+      "defi"
+    ],
+    "timestamp": "2024-08-20T12:32:17.000+00:00",
+    "tokens": [
+      {
+        "chainId": 5611,
+        "address": "0x5C59Dfd58f7F0592c40bf95DA03c8EF33d2AC97f",
+        "name": "BAC",
+        "symbol": "BAC",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/BTCEM_white.svg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 1,
+      "patch": 0
+    }
+  }
