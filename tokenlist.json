@@ -11,9 +11,17 @@
     "tokens": [
       {
         "chainId": 5611,
-        "address": "0x5C59Dfd58f7F0592c40bf95DA03c8EF33d2AC97f",
-        "name": "BAC",
-        "symbol": "BAC",
+        "address": "0xd4bc29a7e6b4387eAd5aA8103b9F9b7d20690475",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/BTCEM_white.svg"
+      },
+      {
+        "chainId": 5611,
+        "address": "0xB0C75dF02B99c401fFE3A48a2FB97FBA5831A785",
+        "name": "TETHER",
+        "symbol": "TETHER",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/BTCEM_white.svg"
       }
